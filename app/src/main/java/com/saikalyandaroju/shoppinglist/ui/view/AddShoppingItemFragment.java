@@ -112,6 +112,7 @@ public class AddShoppingItemFragment extends Fragment {
         });
 
     }
+    /////
     /*Snackbar snack = Snackbar.make(findViewById(R.id.coordinatorLayout),
             "Your message", Snackbar.LENGTH_LONG);
     CoordinatorLayout.LayoutParams params = (CoordinatorLayout.LayoutParams)
